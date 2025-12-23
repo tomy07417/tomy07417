@@ -13,18 +13,18 @@
 <h3 align="left">Languages and Tools:</h3>
 <table align="center" width="100%" border="0" cellpadding="0" cellspacing="0">
   <colgroup>
-    <col/>
-    <col/>
+    <col width="50%" />
+    <col width="50%" />
   </colgroup>
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h4 align="left">Programming Languages</h4>
       <p align="left">
         <img src="./assets/python.svg" alt="Python" height="40" />
         <img src="./assets/go.svg" alt="Go" height="40" />
       </p>
     </td>
-    <tr valign="top">
+    <td width="50%" valign="top">
       <h4 align="left">Frameworks & Libraries</h4>
       <p align="left">
         <img src="./assets/fastapi.svg" alt="FastAPI" height="40" />
@@ -34,7 +34,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h4 align="left">Data Science & Analytics</h4>
       <p align="left">
         <img src="./assets/NumPy.svg" alt="NumPy" height="40" />
@@ -44,7 +44,7 @@
         <img src="./assets/Jupyter.svg" alt="Jupyter" height="40" />
       </p>
     </td>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h4 align="left">Databases</h4>
       <p align="left">
         <img src="./assets/PostgresSQL.svg" alt="PostgreSQL" height="40" />
@@ -53,14 +53,14 @@
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h4 align="left">DevOps & Cloud</h4>
       <p align="left">
         <img src="./assets/docker.svg" alt="Docker" height="40" />
         <img src="./assets/aws.svg" alt="AWS" height="40" />
       </p>
     </td>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h4 align="left">Tools</h4>
       <p align="left">
         <img src="./assets/Git.svg" alt="Git" height="40" />
