@@ -6,18 +6,30 @@
 <br>
 
 <div align="center">
-  <img height="150em" src="<https://github-readme-stats-sigma-five.vercel.app/api?username=arielmirra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true>"/> 
-  <img height="150em" src="<https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arielmirra&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true>"/>
+  <img height="150em" src="<https://github-readme-stats-sigma-five.vercel.app/api?username=tomy07417&show_icons=true&theme=dracula&include_all_commits=true&count_private=true>"/> 
+  <img height="150em" src="<https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tomy07417&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true>"/>
 </div>
 
 <br>
 
 ### 🛠️ Tecnologías y Herramientas que más uso
 <div align="center">
-  <!-- Python -->
-  <img src="<https://www.vectorlogo.zone/logos/python/python-icon.svg>" alt="Scala" width="40" height="40"/>
-  <!-- Golang -->
-  <img src="<https://www.vectorlogo.zone/logos/golang/golang-ar21.svg>" alt="Kotlin" width="40" height="40"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/python.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/go.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/pandas.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/NumPy.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/scikit-learn.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/PyTorch.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/Jupyter.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/fastapi.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/gin.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/docker.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/aws.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/PostgresSQL.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/MongoDB.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/Git.svg" width="40" height="40"/>
+</div>
 </div>
 
  
