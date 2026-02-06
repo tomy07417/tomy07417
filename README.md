@@ -1,73 +1,31 @@
-<h1 align="center">Hi 👋, I'm Tomás Amundarain</h1>
-<h3 align="center">A software engineer student</h3>
+## Buenas! Soy Tomás Amundarain <img src="<https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif>" width="40" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomy07417" alt="tomy07417" /></a> </p>
+⚡ Actualmente soy estudiante de Ingeniería en Informática, con un fuerte interés en Data Science, Machine Learning y modelos predictivos. Me enfoco en desarrollar una base sólida en estadística, programación y análisis de datos, aplicándola en proyectos académicos y personales.
 
-- 🌱 I’m currently learning **Data science**
+### 📈 Mis stats en GitHub
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tomasamundarain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tomasamundarain" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img height="150em" src="<https://github-readme-stats-sigma-five.vercel.app/api?username=arielmirra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true>"/> 
+  <img height="150em" src="<https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arielmirra&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true>"/>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <colgroup>
-    <col width="50%" />
-    <col width="50%" />
-  </colgroup>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="left">Programming Languages</h4>
-      <p align="left">
-        <img src="./assets/python.svg" alt="Python" height="40" />
-        <img src="./assets/go.svg" alt="Go" height="40" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="left">Frameworks & Libraries</h4>
-      <p align="left">
-        <img src="./assets/fastapi.svg" alt="FastAPI" height="40" />
-        <img src="./assets/gin.svg" alt="Gin" height="40" />
-        <img src="./assets/react.svg" alt="React" height="40" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="left">Data Science & Analytics</h4>
-      <p align="left">
-        <img src="./assets/NumPy.svg" alt="NumPy" height="40" />
-        <img src="./assets/pandas.svg" alt="Pandas" height="40" />
-        <img src="./assets/scikit-learn.svg" alt="Scikit-learn" height="40" />
-        <img src="./assets/PyTorch.svg" alt="PyTorch" height="40" />
-        <img src="./assets/Jupyter.svg" alt="Jupyter" height="40" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="left">Databases</h4>
-      <p align="left">
-        <img src="./assets/PostgresSQL.svg" alt="PostgreSQL" height="40" />
-        <img src="./assets/MongoDB.svg" alt="MongoDB" height="40" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="left">DevOps & Cloud</h4>
-      <p align="left">
-        <img src="./assets/docker.svg" alt="Docker" height="40" />
-        <img src="./assets/aws.svg" alt="AWS" height="40" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="left">Tools</h4>
-      <p align="left">
-        <img src="./assets/Git.svg" alt="Git" height="40" />
-      </p>
-    </td>
-  </tr>
-</table>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomy07417&show_icons=true&locale=en&layout=compact" alt="tomy07417" /></p>
+### 🛠️ Tecnologías y Herramientas que más uso
+<div align="center">
+  <!-- Python -->
+  <img src="<https://www.vectorlogo.zone/logos/python/python-icon.svg>" alt="Scala" width="40" height="40"/>
+  <!-- Golang -->
+  <img src="<https://www.vectorlogo.zone/logos/golang/golang-ar21.svg>" alt="Kotlin" width="40" height="40"/>
+</div>
+
+ 
+### 🫂 Conectemos en redes sociales
+<div align="center">
+  <a href="<https://www.linkedin.com/in/tomasamundarain/>" target="_blank"><img src="<https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white>" target="_blank"></a> 
+  <a href = "<mailto:tomas07amunda@gmail.com>"><img src="<https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white>" target="_blank"></a>
+  <a href="<https://www.instagram.com/tomasamundarain/>" target="_blank"><img src="<https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white>" target="_blank"></a>
+</div>
+
 
