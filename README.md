@@ -26,10 +26,10 @@ I built a sports analytics platform that uses computer vision and deep learning 
 
 ## Tech Stack
 
-- **Languages & Backend** — Python, SQL, FastAPI, PostgreSQL
-- **AI & Machine Learning** — LLMs, LangChain, LangGraph, RAG, PyTorch, scikit-learn, Computer Vision, Embeddings, pgvector
-- **Data & Analytics** — Pandas, PySpark, dbt, Looker Studio
-- **Cloud & DevOps** — AWS, Docker, Terraform, GitHub Actions, Git
+- <img src="assets/python.svg" width="16" height="16" alt=""> **Languages & Backend** — Python, SQL, FastAPI, PostgreSQL
+- <img src="assets/PyTorch.svg" width="16" height="16" alt=""> **AI & Machine Learning** — LLMs, LangChain, LangGraph, RAG, PyTorch, scikit-learn, Computer Vision, Embeddings, pgvector
+- <img src="assets/pandas.svg" width="16" height="16" alt=""> **Data & Analytics** — Pandas, PySpark, dbt, Looker Studio
+- <img src="assets/docker.svg" width="16" height="16" alt=""> **Cloud & DevOps** — AWS, Docker, Terraform, GitHub Actions, Git
 
 ## Connect With Me
 
