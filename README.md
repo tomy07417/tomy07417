@@ -1,50 +1,36 @@
-## Buenas! Soy Tomás Amundarain <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40" />
+# Hi, I'm Tomás 👋
 
-⚡ Actualmente soy estudiante de Ingeniería en Informática, con un fuerte interés en Data Science, Machine Learning y modelos predictivos. Me enfoco en desarrollar una base sólida en estadística, programación y análisis de datos, aplicándola en proyectos académicos y personales.
+I'm a Computer Engineering student at the University of Buenos Aires (UBA) and work in Growth & Marketplace Analytics at DiDi.
+I'm interested in software engineering, AI engineering, and machine learning, especially where software and data can solve practical problems.
 
-### 📈 Mis stats en GitHub
-<br>
+## What I'm Working On
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tomy07417&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tomy07417&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+### Enterprise AI Automation Platform
 
-<br>
+I'm building a platform that helps teams find information across company documents and automate routine workflows.
 
-### 🛠️ Tecnologías y Herramientas que más uso
-<div align="center">
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/python.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/go.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/pandas.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/NumPy.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/scikit-learn.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/PyTorch.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/Jupyter.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/fastapi.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/gin.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/docker.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/aws.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/PostgresSQL.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/MongoDB.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tomy07417/tomy07417/main/assets/Git.svg" width="40" height="40"/>
-</div>
-</div>
+- **Implemented** the semantic search engine using Python, FastAPI, PostgreSQL, and pgvector.
+- **In development** are agent workflows that combine retrieval-augmented generation (RAG), tool integration, and contextual memory, with a handoff to human operators for complex cases.
 
- 
-### 🫂 Conectemos en redes sociales
-<div align="center">
-  <a href="https://www.linkedin.com/in/tomasamundarain/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:tomas07amunda@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.instagram.com/tomasamundarain/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
+### ScoutAI
 
+I built a sports analytics platform that uses computer vision and deep learning to detect and track players and the ball in basketball footage.
 
+- Integrated multimodal models to identify game events and used parallel GPU processing to analyze footage.
+- Achieved **96.67% mAP@50** for player detection with SAM 3.1.
 
+## Experience
+
+- **DiDi · Growth & Marketplace Analytics** — I analyze Express and Moto operations in Argentina and Mexico, using Python, SQL, and business metrics to support decisions and automate recurring analyses.
+- **University of Buenos Aires · Data Science Collaborator** — I contribute to activities in Python, PySpark, machine learning, and generative AI.
+
+## Tech Stack
+
+- **Languages & Backend** — Python, SQL, FastAPI, PostgreSQL
+- **AI & Machine Learning** — LLMs, LangChain, LangGraph, RAG, PyTorch, scikit-learn, Computer Vision, Embeddings, pgvector
+- **Data & Analytics** — Pandas, PySpark, dbt, Looker Studio
+- **Cloud & DevOps** — AWS, Docker, Terraform, GitHub Actions, Git
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/tomasamundarain/) · [GitHub](https://github.com/tomy07417) · [Email](mailto:tomas07amunda@gmail.com)
